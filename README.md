@@ -11,7 +11,10 @@
 ### 全局脚本定义(适用于当前用户)
 软连接: ln -s ./bin/s-login /usr/local/bin/s-login
 
-全局命令：s-login
+全局命令s-login执行
+
+
+
 ![](./images/shell.png)
 
 如未有此命令，一般是个人环境变量问题
