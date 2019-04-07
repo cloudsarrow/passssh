@@ -1,6 +1,6 @@
 # passssh
 
-### 安装sshpass
+### 安装sshpass(homebrew)
 [sshpass安装教程](https://github.com/hudochenkov/homebrew-sshpass)
 
 ### 查看sshpass是否安装成功
