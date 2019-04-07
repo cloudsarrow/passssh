@@ -1,4 +1,4 @@
-# noInteractivessh
+# passssh
 
 ### 安装sshpass
 [sshpass安装教程](https://github.com/hudochenkov/homebrew-sshpass)
