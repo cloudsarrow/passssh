@@ -25,3 +25,7 @@
 ![](./images/shell.png)
 
 ！注意环境变量问题
+
+
+附加：sshpass+scp远程复制
+  sshpass -p 123456 scp 文件 root@10.10.10.120:/home
